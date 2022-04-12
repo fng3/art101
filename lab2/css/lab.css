@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  font-size:500%;
+}
+p {
+  color: white;
+  font-family: "Avenir";
+  text-indent: 30px;
+  margin-left: 20px;
+}
+#content {
+  background-color: black
+}
