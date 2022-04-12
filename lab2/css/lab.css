@@ -10,4 +10,10 @@ p {
 }
 #content {
   background-color: black
+  width: 500px;
+  min-hwifhr: 400px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 2px;
+  font-size: 20px;
 }
