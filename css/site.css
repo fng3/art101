@@ -1,10 +1,9 @@
 #thisme {width: 500px;}
 }
-
 #yay {
   background-color: #cccccc
-  width: 500px;
-  min-height: : 400px;
+  width: 400px
+  min-height: 400px
   padding: 20px;
   margin: 20px;
   border: solid 2px #444444;
